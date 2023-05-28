@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+.yarn/
+.pnp.*
+
+# next.js
+.next/
+out/
+
+# production
+build/
+
+# vercel
+.vercel/
+
+# misc
+.vscode/
